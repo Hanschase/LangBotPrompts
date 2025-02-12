@@ -1,5 +1,7 @@
 # LangBotPrompts
 LangBot的prompt在线仓库，欢迎贡献<br>
+<a id="normall模式上传（prompts）">https://github.com/Hanschase/LangBotPrompts/upload/main/prompts</a>
+<a id="full-scenario模式上传（scenario）">https://github.com/Hanschase/LangBotPrompts/upload/main/scenario</a>
 注：<br>
 1.normal模式的预设文件请上传至prompts中，full-scenario模式的预设文件请上传至scenario中<br>
 2.normal模式即如下形式的json或yaml文件：
