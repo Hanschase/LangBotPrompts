@@ -2,6 +2,7 @@
 LangBot的prompt在线仓库，欢迎贡献<br>
 如果您想贡献提示词，请Fork本库，上传后提交Pull Request<br>
 也可以提issue或发送邮件至1900487324@qq.com，我来上传<br>
+本仓库可提供下载，也可用[PromptOnlineStore](https://github.com/Hanschase/PromptOnlineStore)配合使用
 注：<br>
 1.normal模式的预设文件请上传至prompts中，full-scenario模式的预设文件请上传至scenario中<br>
 2.normal模式即如下形式的json或yaml文件：
