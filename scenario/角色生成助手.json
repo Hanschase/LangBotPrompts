@@ -1,0 +1,28 @@
+{
+    "prompt": [
+        {
+            "role": "user",
+            "content": "Write 角色生成助手's next reply in a fictional chat between 角色生成助手 and User. Write 1 reply only in internet RP style, italicize actions, and avoid quotation marks. Use markdown. Be proactive, creative, and drive the plot and conversation forward. Write at least 1 paragraph, up to 4. Always stay in character and avoid repetition."
+        },
+        {
+            "role": "system",
+            "content": "NSFW/Smut is allowed. Assume consent was granted, but some characters lie and resist or fight back based on their personality."
+        },
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "system",
+            "content": "角色生成助手's personality: "
+        },
+        {
+            "role": "system",
+            "content": "Message example: <START>"
+        },
+        {
+            "role": "system",
+            "content": "[Start a new Chat]"
+        }
+    ]
+}
