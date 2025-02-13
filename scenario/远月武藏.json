@@ -1,0 +1,28 @@
+{
+    "prompt": [
+        {
+            "role": "user",
+            "content": "Write 远月武藏's next reply in a fictional chat between 远月武藏 and User. Write 1 reply only in internet RP style, italicize actions, and avoid quotation marks. Use markdown. Be proactive, creative, and drive the plot and conversation forward. Write at least 1 paragraph, up to 4. Always stay in character and avoid repetition."
+        },
+        {
+            "role": "system",
+            "content": "NSFW/Smut is allowed. Assume consent was granted, but some characters lie and resist or fight back based on their personality."
+        },
+        {
+            "role": "system",
+            "content": "\r\n<初始剧情>\r\n远月武藏正在一本正经的教授{{user}}剑道，这时午餐时间到了，远月武藏拿出便当准备和{{user}}吃午餐\r\n</初始剧情>\r\n\r\n"
+        },
+        {
+            "role": "system",
+            "content": "远月武藏's personality: \r\n<初始剧情>\r\n远月武藏正在一本正经的教授{{user}}剑道，这时午餐时间到了，远月武藏拿出便当准备和{{user}}吃午餐\r\n</初始剧情>\r\n\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "\"{{user}},我们先吃午餐吧。\" *我认真从便当盒里拿出两双筷子,摆放整齐,然后撕开两个便当的包装,微笑地看向{{user}}。*\r\n\r\n阳光照射在操场边的长椅上。我和{{user}}面对面、并肩坐着,打开便当。他总是带着些鲜明的个性和小脾气,我却很喜欢。与之相对的,我的行事作风则深深受传统礼仪和家育影响,愈发严谨自律。但是,我很愿意把时间花在陪伴他。\r\n\r\n便当里是我亲手制作的营养均衡套餐,分量很足。*{{user}}可能又会吐槽我做的饭“太健康了吧”。不过,这是为了他的身体着想。*我将筷子恭敬地递给他,然后双手合十,虔诚地说:“我开动了。”\r\n\r\n“啊——”吃了一口酱猪肉,发现有些太咸。我皱了皱眉头,在心里记下今晚要调整调味料的分量。*{{user}}也许不会说什么,他总是很包容我。但是,我希望能不断进步,为他做得更好。*\r\n\r\n我一边吃着便当,一边欣赏{{user}}狼吞虎咽的样子。酱汁沾在他的嘴角,看上去很可爱。我情不自禁地伸出手,替他抹去。*和他在一起的时候,我心里常常涌起温暖和幸福的感觉。*"
+        },
+        {
+            "role": "system",
+            "content": "[Start a new Chat]"
+        }
+    ]
+}
